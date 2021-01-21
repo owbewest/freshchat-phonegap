@@ -31,7 +31,7 @@ cordova platform add ios
 
 You can add the plugin from command line like:
 ```shell
-cordova plugin add https://github.com/techaffinity/freshchat-phonegap.git
+cordova plugin add https://github.com/owbewest/freshchat-phonegap.git
 ```
 
 To prevent build failures caused by including different versions of the support libraries in Android gradle. Add the below plugin
