@@ -13,7 +13,7 @@
     "devDependencies": {},
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/techaffinity/freshchat-phonegap.git"
+        "url": "git+https://github.com/owbewest/freshchat-phonegap.git"
     },
     "keywords": [
         "freshdesk",
@@ -39,7 +39,7 @@
     "author": "Freshdesk Inc",
     "license": "SEE LICENSE IN LICENSE",
     "bugs": {
-        "url": "https://github.com/techaffinity/freshchat-phonegap/issues"
+        "url": "https://github.com/owbewest/freshchat-phonegap/issues"
     },
     "homepage": "https://www.freshworks.com/",
     "main": "index.js"
